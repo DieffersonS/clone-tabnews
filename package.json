@@ -4,7 +4,7 @@
   "description": "Projeto do cusro.dev clonando o TabNews.",
   "main": "index.js",
   "scripts": {
-    "dev":"next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
@@ -12,5 +12,6 @@
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "devDependencies": {}
 }
